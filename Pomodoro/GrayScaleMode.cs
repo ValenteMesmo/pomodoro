@@ -37,7 +37,7 @@ static class GrayScaleMode
 
     }
 
-    const int OnAndOffDelay = 300;
+    const int OnAndOffDelay = 1200;
     public static void On()
     {
         MagUninitialize();
